@@ -1,11 +1,9 @@
 [
   {
-    "titulo": "Título del video 1",
-    "embed": "https://hglink.to/e/wqj9fbg7wax5"
-  },
-  {
-    "titulo": "Título del video 2", 
-    "embed": "https://www.youtube.com/embed/CrPF0qaVjfE"
+    "id": 1,
+    "titulo": "OVA Completa - Sub Español",
+    "embed": "https://odysee.com/$/embed/%F0%9D%99%89%F0%9D%99%96%F0%9D%99%A0...etc",
+    "thumbnail": "https://spee.ch/thumbnail/tu-thumb.jpg",
+    "descripcion": "Primer episodio subido en Odysee"
   }
-
 ]
