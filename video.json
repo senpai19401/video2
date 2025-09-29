@@ -1,14 +1,11 @@
 [
   {
-    "id": 1,
     "titulo": "Nakama - DIA DELÍCIA (Slowed) 8D | AnimeEdit x Yuki",
-    "embed": "https://player.vimeo.com/video/1122097670?",
+    "descripcion": "Primer video subido en EroGames",
     "thumbnail": "https://i.ytimg.com/vi/CrPF0qaVjfE/maxresdefault.jpg",
-    "descripcion": "Primer video subido en EroGames"
-  }
-]
-
-
+    "embed": "https://player.vimeo.com/video/1122097670?",
+    "generos": ["1", "Edit", "EroGames"]
+  },
 
 
 
