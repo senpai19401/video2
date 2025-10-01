@@ -6,19 +6,5 @@
     "embed": "https://player.vimeo.com/video/1122097670?",
     "thumbnail": "https://pic.rutubelist.ru/video/2025-07-04/16/99/16994cfd0876e998b0464801ef96a382.jpg",
     "generos": ["1", "EroGames", "Edit"]
-  },
-  {
-    "titulo": "Nombre del video 2",
-    "descripcion": "Descripción del video 2",
-    "embed": "https://www.youtube.com/embed/OTRO_CODIGO",
-    "thumbnail": "https://img.youtube.com/vi/OTRO_CODIGO/hqdefault.jpg",
-    "generos": ["Estrategia", "Simulación"]
-  },
-  {
-    "titulo": "Nombre del video 3",
-    "descripcion": "Descripción del video 3",
-    "embed": "https://player.vimeo.com/video/CODIGO_VIMEO",
-    "thumbnail": "https://via.placeholder.com/300x169/2d2d2d/fff?text=Vimeo+Video",
-    "generos": ["Indie", "Puzzle"]
   }
 ]
