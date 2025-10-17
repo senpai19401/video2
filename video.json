@@ -106,37 +106,5 @@
     "fecha": "2025-10-04",
     "password": "1940",
     "copyright": "© Copyright senpai1940 - Contraseña: 1942 - Prohibida la modificación sin autorización"
-  },
-  {
-    "titulo": "Prueba",
-    "descripcion": "Hol",
-    "embed": "https://www.youtube.com/embed/l0H-YaOaIIY",
-    "thumbnail": null,
-    "generos": [
-      "Musica"
-    ],
-    "plataforma": "YouTube",
-    "duracion": "4",
-    "fecha": "2025-10-16",
-    "password": "1940",
-    "urlType": "youtube-converted",
-    "originalUrl": "https://youtu.be/l0H-YaOaIIY?si=OrZU65dWvOLNw05h",
-    "copyright": "© Copyright senpai1940 - Contraseña: 1942 - Prohibida la modificación sin autorización"
-  },
-  {
-    "titulo": "Prueba 2",
-    "descripcion": "Hola",
-    "embed": "https://www.youtube.com/embed/CNnBEAMrpf0",
-    "thumbnail": null,
-    "generos": [
-      "Musica"
-    ],
-    "plataforma": "YouTube",
-    "duracion": "3",
-    "fecha": "2025-10-16",
-    "password": "1940",
-    "urlType": "youtube-converted",
-    "originalUrl": "https://youtu.be/CNnBEAMrpf0?si=c9V0EgQ3EJlpsgPC",
-    "copyright": "© Copyright senpai1940 - Contraseña: 1942 - Prohibida la modificación sin autorización"
   }
 ]
