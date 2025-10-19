@@ -180,7 +180,7 @@
   {
     "titulo": "V PUTIN / GANSTA’S PARADISE",
     "descripcion": "Hey guys, I hope you enjoyed this video! If you want to support me somehow (I don't have monetization😰), then here is the link to donate. (I will be very pleased; it motivates me to create new videos): https://www.donationalerts.com/r/martata\nThanks! 💕",
-    "embed": "https://www.youtube.com/embed/r2DRlry8F68?si=82Q_7AWcXl6jyQXD",
+    "embed": "https://www.youtube.com/embed/r2DRlry8F68",
     "thumbnail": "https://i.ytimg.com/vi/NMNsvyDbdMQ/sddefault.jpg",
     "generos": [
       "martata",
@@ -189,7 +189,10 @@
     "plataforma": "YouTube",
     "duracion": "6:11",
     "fecha": "2025-10-19",
-    "password": "1940"
+    "password": "1940",
+    "urlType": "youtube-converted",
+    "originalUrl": "https://youtu.be/r2DRlry8F68?si=KtcYXuQCSgD7iKt6",
+    "copyright": "© Copyright senpai1940 - Contraseña: 1942 - Prohibida la modificación sin autorización"
   },
   {
     "titulo": "Síguelo bailando - Ozuna [AMV] Hiraku Best Moments ❤️",
