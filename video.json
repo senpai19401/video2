@@ -204,5 +204,19 @@
     "duracion": "3:11",
     "fecha": "2025-10-19",
     "password": "1940"
+  },
+  {
+    "titulo": "COD BLACK OPS 3 EPIC RAP | ZARCORT | CYCLO | KRONNO | PITER-G",
+    "descripcion": "LIKE SI TE HA GUSTADO!\nSIGUEME EN TWITTER: zarcortgame  \nCANAL SECUNDARIO: zarcortplay",
+    "embed": "https://www.youtube.com/embed/Td-AvHH6sDI?si=LkS3x_QCnNYKfsp0",
+    "thumbnail": "https://i.ytimg.com/vi/XH0JhnCFHlg/sddefault.jpg",
+    "generos": [
+      "ZarcortGame",
+      "Musica"
+    ],
+    "plataforma": "YouTube",
+    "duracion": "5:26",
+    "fecha": "2025-10-20",
+    "password": "1940"
   }
 ]
