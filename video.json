@@ -236,7 +236,7 @@
   {
     "titulo": "Son las tres de la mañana y estoy en tu ventana",
     "descripcion": "Deorro - Perdoname (Letra)",
-    "embed": "https://www.youtube.com/embed/9zdBzs1Gavc?si=BGfjB3Tny55xLdQt",
+    "embed": "https://www.youtube.com/embed/9zdBzs1Gavc",
     "thumbnail": "https://i.ytimg.com/vi/f10mB6fKszU/sddefault.jpg",
     "generos": [
       "Musica",
@@ -245,6 +245,9 @@
     "plataforma": "YouTube",
     "duracion": "4:16",
     "fecha": "2025-10-20",
-    "password": "1940"
+    "password": "1940",
+    "urlType": "youtube-converted",
+    "originalUrl": "https://youtube.com/watch?v=9zdBzs1Gavc&si=ENKnC25yQpbfVB2v",
+    "copyright": "© Copyright senpai1940 - Contraseña: 1942 - Prohibida la modificación sin autorización"
   }
 ]
