@@ -512,5 +512,19 @@
     "fecha": "2025-08-19",
     "password": "1940",
     "copyright": "© Copyright senpai1940 - Contraseña: 1942 - Prohibida la modificación sin autorización"
+  },
+  {
+    "titulo": "Vivir en SHANGHAI  | La Ciudad Mas Rica de CHINA",
+    "descripcion": "El sitio mas desarrollado de china, el mas grande y el mas rico. Shanghai\nEs la ciudad de los Rascacielos, con tren bala y coches de lujo a cada paso.",
+    "embed": "https://www.youtube.com/embed/TbaWBnuu_2c",
+    "thumbnail": "https://i.ytimg.com/vi/TbaWBnuu_2c/maxresdefault.jpg",
+    "generos": [
+      "vicesat"
+    ],
+    "plataforma": "YouTube",
+    "duracion": "25:37",
+    "fecha": "2024-10-31",
+    "password": "1940",
+    "copyright": "© Copyright senpai1940 - Contraseña: 1942 - Prohibida la modificación sin autorización"
   }
 ]
