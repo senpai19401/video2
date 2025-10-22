@@ -2569,5 +2569,19 @@
     "duracion": "21:02",
     "fecha": "2018-12-01",
     "password": "1940"
+  },
+  {
+    "titulo": "Foo Fighters | April Fool's 2019 | War Thunder",
+    "descripcion": "=Redes=\nTwitter: https://twitter.com/_DarthThunder_\nPatreon: https://www.patreon.com/DarthThunder\nDiscord: https://discord.gg/NDnb2eP\nDonaciones: https://www.paypal.me/DarthThunder\n\n<!-- © Copyright senpai1940 - Contraseña: 1942 - Prohibida la modificación sin autorización -->",
+    "embed": "https://www.youtube.com/embed/3Yq2ERlcoLQ",
+    "thumbnail": "https://i.ytimg.com/vi/3Yq2ERlcoLQ/maxresdefault.jpg",
+    "generos": [
+      "Gameplay",
+      "DarthThunder"
+    ],
+    "plataforma": "YouTube",
+    "duracion": "48:52",
+    "fecha": "2019-04-01",
+    "password": "1940"
   }
 ]
