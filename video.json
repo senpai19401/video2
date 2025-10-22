@@ -3422,5 +3422,19 @@
     "duracion": "3:50",
     "fecha": "2025-05-14",
     "password": "1940"
+  },
+  {
+    "titulo": "Camilo & Pedro Capó_Tu Tu Nadie Como Tu (Miku La Waifu Suprema) - AMV",
+    "descripcion": "Camilo & Pedro Capó_Tu Tu Nadie Como Tu (Miku La Waifu Suprema) - AMV",
+    "embed": "https://www.youtube.com/embed/zbc_Zmsun7g",
+    "thumbnail": "https://i.ytimg.com/vi/zbc_Zmsun7g/maxresdefault.jpg",
+    "generos": [
+      "Musica",
+      "Dayfu"
+    ],
+    "plataforma": "YouTube",
+    "duracion": "2:59",
+    "fecha": "2025-01-17",
+    "password": "1940"
   }
 ]
